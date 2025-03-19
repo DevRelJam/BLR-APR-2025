@@ -1,10 +1,12 @@
-# DevRel Jam Hyderabad - August 2025
+# DevRel Jam Bengaluru - April 2025
 
-Welcome to the repository for the DevRel Jam meetup happening in Hyderabad in August, co-located with KubeCon India 2025.
+Welcome to the repository for the DevRel Jam meetup happening in Bengaluru in April, co-located with Great International Developer Summit (GIDS) 2025.
 
-- **Date and Time:** [To Be announced]
-- **Location:** Hyderabad, India 🇮🇳
-- **Event Page:** [lu.ma/devreljam](https://lu.ma/devreljam)
+- **Date and Time:** Thursday, 24th April 2025 | 6 PM to 9 PM IST
+- **Location:** Bengaluru, India 🇮🇳
+- **Event Page:** [lu.ma/devreljam](https://lu.ma/n9xptnma)
+
+![DevRelJam](https://github.com/user-attachments/assets/46e59fc5-22ac-4a52-a7bb-fcb0e33e6f07)
 
 ## Agenda 📋
 
@@ -19,7 +21,7 @@ Welcome to the repository for the DevRel Jam meetup happening in Hyderabad in Au
 
 ## Call for Speakers ⭐️
 
-We are looking for DevRel professionals to present 15-minute lightning talks. Each talk will be a duo presentation focusing on core technologies and their integration. [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml) by 11:59 PM IST, 29th June 2025
+We are looking for DevRel professionals to present 15-minute lightning talks. Each talk will be a duo presentation focusing on core technologies and their integration. [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml) by 11:59 PM IST, 6th April 2025
 
 ---
 
