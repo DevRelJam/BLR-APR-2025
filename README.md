@@ -21,7 +21,7 @@ Welcome to the repository for the DevRel Jam meetup happening in Bengaluru in Ap
 
 ## Call for Speakers ⭐️
 
-We are looking for DevRel professionals to present 15-minute lightning talks. Each talk will be a duo presentation focusing on core technologies and their integration. [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml) by 11:59 PM IST, 6th April 2025
+We are looking for DevRel professionals to present 15-minute lightning talks. Each talk will be a duo presentation focusing on core technologies and their integration. [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml&labels=BLR-APR-2025) by 11:59 PM IST, 6th April 2025
 
 ---
 
