@@ -6,7 +6,7 @@ Welcome to the repository for the DevRel Jam meetup happening in Bengaluru in Ap
 - **Location:** Bengaluru, India 🇮🇳
 - **Event Page:** https://lu.ma/n9xptnma
 
-![DevRelJam](https://github.com/user-attachments/assets/46e59fc5-22ac-4a52-a7bb-fcb0e33e6f07)
+![DevRelJam](https://github.com/DevRelJam/.github/blob/main/assets/BLR-APR-2025.png)
 
 ## Agenda 📋
 
