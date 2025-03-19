@@ -4,7 +4,7 @@ Welcome to the repository for the DevRel Jam meetup happening in Bengaluru in Ap
 
 - **Date and Time:** Thursday, 24th April 2025 | 6 PM to 9 PM IST
 - **Location:** Bengaluru, India 🇮🇳
-- **Event Page:** [lu.ma/devreljam](https://lu.ma/n9xptnma)
+- **Event Page:** https://lu.ma/n9xptnma
 
 ![DevRelJam](https://github.com/user-attachments/assets/46e59fc5-22ac-4a52-a7bb-fcb0e33e6f07)
 
@@ -25,4 +25,4 @@ We are looking for DevRel professionals to present 15-minute lightning talks. Ea
 
 ---
 
-*For any questions, please reach out to [Yashraj Nayak](https://www.linkedin.com/in/yashrajnayak/).*
+*For any questions, please reach out to [Yashraj Nayak](https://www.linkedin.com/in/yashrajnayak/)*
