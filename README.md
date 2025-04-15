@@ -1,6 +1,6 @@
 # DevRel Jam Bengaluru - April 2025
 
-Welcome to the repository for the DevRel Jam meetup happening in Bengaluru in April, co-located with Great International Developer Summit (GIDS) 2025.
+Welcome to the repository for the DevRel Jam meetup happening in Bengaluru in April, on the sidelines of Great International Developer Summit (GIDS) 2025.
 
 - **Date and Time:** Tuesday, 22nd April 2025 | 6 PM to 9 PM IST
 - **Location:** Bengaluru, India 🇮🇳
@@ -10,13 +10,11 @@ Welcome to the repository for the DevRel Jam meetup happening in Bengaluru in Ap
 
 ## Agenda 📋
 
-- **Welcome and Introduction** (15 mins)
-- **Lightning Talks** (4 sessions, 15 mins each)
-- **Networking Break** (30 mins)
-- **Panel Discussion** (30 mins)
-- **Closing Remarks** (15 mins)
-
-*Note: The final agenda will be updated based on selected speakers and topics.*
+- **Welcome Note** by [Yashraj Nayak](https://github.com/yashrajnayak), Program Manager Developer Relations, GitHub (5 mins)
+- **​The Engaged Developer Funnel** by [Stephen Chin](https://github.com/steveonjava), VP of Developer Relations, Neo4j (15 mins)
+- **​The Devil Is In The Titles** by [Ram Iyengar](https://github.com/ramiyengar), Chief Evangelist at Linux Foundation (15 mins)
+- **​Ask Me Anything Session** (30 mins)
+- **Closing Remarks** (5 mins)
 
 ## Call for Speakers ⭐️
 
