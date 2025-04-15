@@ -2,7 +2,7 @@
 
 Welcome to the repository for the DevRel Jam meetup happening in Bengaluru in April, co-located with Great International Developer Summit (GIDS) 2025.
 
-- **Date and Time:** Thursday, 24th April 2025 | 6 PM to 9 PM IST
+- **Date and Time:** Tuesday, 22nd April 2025 | 6 PM to 9 PM IST
 - **Location:** Bengaluru, India 🇮🇳
 - **Event Page:** https://lu.ma/n9xptnma
 
@@ -12,7 +12,6 @@ Welcome to the repository for the DevRel Jam meetup happening in Bengaluru in Ap
 
 - **Welcome and Introduction** (15 mins)
 - **Lightning Talks** (4 sessions, 15 mins each)
-  - Each session features two speakers showcasing how their technologies integrate or work together.
 - **Networking Break** (30 mins)
 - **Panel Discussion** (30 mins)
 - **Closing Remarks** (15 mins)
@@ -21,7 +20,7 @@ Welcome to the repository for the DevRel Jam meetup happening in Bengaluru in Ap
 
 ## Call for Speakers ⭐️
 
-We are looking for DevRel professionals to present 15-minute lightning talks. Each talk will be a duo presentation focusing on core technologies and their integration. [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml&labels=BLR-APR-2025) by 11:59 PM IST, 6th April 2025
+We are looking for DevRel professionals to present 15-minute lightning talks. Each talk will be a duo presentation focusing on core technologies and their integration. [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml&labels=BLR-APR-2025)
 
 ---
 
