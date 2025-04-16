@@ -6,8 +6,6 @@ Happening in Bengaluru in April on the sidelines of Great International Develope
 - **Location:** Bengaluru, India 🇮🇳
 - **Event Page:** https://lu.ma/n9xptnma (registration required, confirmed participants would be allowed entry)
 
-![DevRelJam](https://github.com/DevRelJam/.github/blob/main/assets/BLR-APR-2025.png)
-
 ### Agenda 📋
 
 - **Welcome Note** by [Yashraj Nayak](https://github.com/yashrajnayak), Program Manager Developer Relations at GitHub (5 mins)
