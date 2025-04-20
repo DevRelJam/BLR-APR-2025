@@ -8,11 +8,13 @@ Happening in Bengaluru in April on the sidelines of Great International Develope
 
 ### Agenda 📋
 
-- **Welcome Note** by [Yashraj Nayak](https://github.com/yashrajnayak), Program Manager Developer Relations at GitHub (5 mins)
-- **​The Engaged Developer Funnel** by [Stephen Chin](https://github.com/steveonjava), VP of Developer Relations at Neo4j (15 mins)
-- **​The Devil Is In The Titles** by [Ram Iyengar](https://github.com/ramiyengar), Chief Evangelist at Linux Foundation (15 mins)
-- **​Duo Presentation** (30 mins) - [Call for Submissions](https://github.com/DevRelJam/Speakers)
-- **Closing Remarks** (5 mins)
+- ​Welcome Note by [Yashraj Nayak](https://www.linkedin.com/in/yashrajnayak/), Program Manager Developer Relations at GitHub (5 mins)
+- ​The Engaged Developer Funnel by [Stephen Chin](https://github.com/steveonjava), VP of Developer Relations, Neo4j (15 mins)
+- ​The Devil Is In The Titles by [Ram Iyengar,](https://github.com/ramiyengar) Chief Evangelist at Linux Foundation (15 mins)
+- ​Ask Me Anything Session (30 mins)
+  - ​[James Ward](https://github.com/jamesward), Principal Developer Advocate at AWS
+  - ​[Ivar Grimstad](https://github.com/ivargrimstad), Developer Advocate at Eclipse Foundation
+- ​Closing Remarks (15 mins)
 
 ### Organizing Team 👥
 
